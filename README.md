@@ -16,6 +16,10 @@ plugins: zsh-autosuggestions, zsh-syntax-highlighting, sudo, command-not-found
 ```bash
 git clone https://github.com/YOUR_USERNAME/dotfiles.git ~/dotfiles
 cd ~/dotfiles
+```
+go to .gitcinfig --> put email and username
+
+```
 chmod +x install.sh
 ./install.sh
 ```
