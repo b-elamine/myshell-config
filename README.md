@@ -19,5 +19,3 @@ cd ~/dotfiles
 chmod +x install.sh
 ./install.sh
 ```
-
-needs `git` and `curl`. works on ubuntu/debian.
